@@ -1,0 +1,9 @@
+#advertisement {
+    height: 120px;
+    width: 670px;
+    background-color: purple;
+    margin-left: 30px;
+    align-self: flex-end;
+    margin-top: 30px;
+
+}
