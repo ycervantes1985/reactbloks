@@ -3,7 +3,7 @@ import '../CSS/Navigation_Style.css';
 const Navigation = () => {
 
     return (
-        <div class="side-nav"></div>
+        <div className='side-nav'></div>
     );
   }
   

@@ -3,7 +3,7 @@ import '../CSS/Header_Style.css';
 const Header = () => {
 
     return (
-        <div class="top-nav"></div>
+        <div className='top-nav'></div>
     );
   }
   
